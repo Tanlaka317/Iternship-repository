@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+form{
+    line-height: 2;
+  
+    
+   
+}
+
+input , button{
+    font-size: 2rem;
+    line-height: 1;
+    border: solid black 3px;
+padding: 1rem;
+margin: 1rem;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+button{
+    background-color: blueviolet;
+    color: white;
+    width: 40%;
+    border-radius: 60px;
+    margin:2rem ;   
+     margin-left: 15%;
+}
